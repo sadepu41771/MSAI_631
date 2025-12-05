@@ -1,0 +1,5 @@
+aiohttp
+botbuilder-core
+botbuilder-schema
+botbuilder-integration-aiohttp
+azure-ai-textanalytics
